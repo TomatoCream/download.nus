@@ -1,0 +1,5 @@
+* Useful commands
+** Get OS information
+   #+BEGIN_SRC shell
+     hostnamectl
+   #+END_SRC
